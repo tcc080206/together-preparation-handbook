@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-db31320bcf7b5a75",
+  "category": {
+    "id": "guide-items-db31320bcf7b5a75",
+    "title": "雙方心理健康與壓力管理",
+    "description": "查地方心理衛生中心服務，記錄服務對象、預約、費用及服務地。",
+    "order": 210,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "batch_id": "c09-tpe-20261117-03-tpe-childcare-prices-new",
+  "category": {
+    "id": "tpe-childcare-prices",
+    "title": "臺北具名托育原費用",
+    "description": "臺北具名托育原費用；依官方原件分列情境，條件及未決處見各筆來源。模型整理候選，尚待使用者核對。",
+    "order": 900,
+    "review_fields": [
+      "金額",
+      "條件",
+      "限制"
+    ],
+    "field_types": {
+      "金額": "integer",
+      "條件": "text",
+      "限制": "text"
+    }
+  },
+  "records": [
+    {
+      "id": "tpe-childcare-prices-office-monthly",
+      "type": "tpe-childcare-prices",
+      "title": "臺北市政府員工子女托嬰中心：原月費",
+      "fields": {
+        "金額": "11000",
+        "條件": "具名機構日間托育，週一至五07:30–17:30；員工中心依人事處收托順位，非全市普遍名額。",
+        "限制": "原月費未扣補助；註冊費0，延托及平安保險等依規定另計，不將07:30–19:00全算月費。此為具名機構價格，不是臺北全市私托定價。",
+        "提供者": "臺北市政府員工子女托嬰中心",
+        "地區": "TW-TPE",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "原費用",
+        "適用起日": "2024-09-01",
+        "適用迄日": null,
+        "註冊費": "0",
+        "註冊費單位": "新臺幣元／名冊註冊費欄",
+        "餐食另收費": "0",
+        "延托費": "17:30–18:30每半小時每小時最低工資÷2；18:30–19:00每半小時最低工資×1.34÷2；不代入未核實的時薪。",
+        "服務時段": "週一至五07:30–17:30日間；17:30後另收延托至19:00，依具名說明。",
+        "報價統計日": "2026-10-31",
+        "教材材料另收費": "0",
+        "固定延托": "無",
+        "逾時費": "無"
+      },
+      "sources": [
+        {
+          "title": "臺北11510立案托嬰中心名冊",
+          "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTc5NTAvMzE3MTEzOS81NDdjNWUyNy01NDJmLTRmOWItYjNjNC0zNTMzZDkwM2FkODYucGRm&n=5pys5biC56uL5qGI5omY5ayw5Lit5b%2bD5ZCN5YaKMTE1MTAucGRm&icon=..pdf",
+          "locator": "p8 編號158；費用欄1130901起"
+        },
+        {
+          "title": "臺北市政府員工子女托嬰中心收費",
+          "url": "https://dop.gov.taipei/cp.aspx?n=260FA2363139D739",
+          "locator": "四費用、二收托對象、三收托時間"
+        },
+        {
+          "title": "社家署臺北市政府員工子女托嬰中心費用",
+          "url": "https://ncwisweb.sfaa.gov.tw/home/childcare-center/detail/CW11207013",
+          "locator": "收費情形／退費說明：月費、延後收托、餐點及註冊"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型對照本次主管具名名冊及社家署收費明細，未經使用者核對。"
+    },
+    {
+      "id": "tpe-childcare-prices-zhongshan-monthly",
+      "type": "tpe-childcare-prices",
+      "title": "臺北市中山托嬰中心：原月費",
+      "fields": {
+        "金額": "11000",
+        "條件": "具名機構日間托育，週一至五07:30–19:00（含延托時段，不能推定全時段同價）；員工中心依人事處收托順位，非全市普遍名額。",
+        "限制": "原月費未扣補助；註冊費0，延托及平安保險等依規定另計，不將07:30–19:00全算月費。此為具名機構價格，不是臺北全市私托定價。",
+        "提供者": "臺北市中山托嬰中心",
+        "地區": "TW-TPE",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "原費用",
+        "適用起日": "2024-09-01",
+        "適用迄日": null,
+        "註冊費": "0",
+        "註冊費單位": "新臺幣元／名冊註冊費欄",
+        "餐食另收費": null,
+        "延托費": "17:30–18:30每半小時每小時最低工資÷2；18:30–19:00每半小時最低工資×1.34÷2；不代入未核實的時薪。",
+        "服務時段": "週一至五07:30–17:30日間；17:30後另收延托至19:00，依具名說明。",
+        "報價統計日": "2026-10-31",
+        "臨時托育": "每小時120元，點心費50元；須有核定名額及人力。"
+      },
+      "sources": [
+        {
+          "title": "臺北11510立案托嬰中心名冊",
+          "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTc5NTAvMzE3MTEzOS81NDdjNWUyNy01NDJmLTRmOWItYjNjNC0zNTMzZDkwM2FkODYucGRm&n=5pys5biC56uL5qGI5omY5ayw5Lit5b%2bD5ZCN5YaKMTE1MTAucGRm&icon=..pdf",
+          "locator": "p3 編號55；費用欄1130901起"
+        },
+        {
+          "title": "社家署臺北中山托嬰中心費用",
+          "url": "https://ncwisweb.sfaa.gov.tw/home/childcare-center/detail/CW10202007",
+          "locator": "收費情形／退費說明：月費、延後收托、餐點及註冊"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型對照本次主管具名名冊及社家署收費明細，未經使用者核對。中山中心日間月費之餐食是否另列，公開具名說明未明載，不推定0元；臨托點心50元不得混作日間餐費。"
+    }
+  ]
+}

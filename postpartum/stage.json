@@ -1,0 +1,134 @@
+{
+  "id": "postpartum",
+  "title": "產後",
+  "summary": "安排返家照顧與恢復。",
+  "intro": "安排返家後的照顧人力與支出，把恢復期間想確認的問題留給照護團隊。",
+  "chapters": {
+    "costs": {
+      "subtitle": "月子中心與返家照護",
+      "entries": [
+        {
+          "stageId": "postpartum",
+          "topicId": "postpartum-care-options"
+        },
+        {
+          "guideId": "items_90513227d0b87997",
+          "label": "工作支持與育嬰留停"
+        }
+      ]
+    },
+    "health": {
+      "subtitle": "恢復、餵養與回診",
+      "entries": [
+        {
+          "stageId": "postpartum",
+          "topicId": "postpartum-health"
+        }
+      ]
+    },
+    "daily": {
+      "subtitle": "家人分工",
+      "entries": [
+        {
+          "stageId": "postpartum",
+          "topicId": "postpartum-daily"
+        }
+      ]
+    }
+  },
+  "topics": [
+    {
+      "id": "postpartum-care-options",
+      "chapter": "costs",
+      "title": "月子中心（產後護理之家）與返家照護",
+      "questions": [
+        {
+          "key": "home-budget",
+          "title": "如果請人到家幫忙，報價包含什麼？",
+          "notes": "把時段、可協助的工作、交通或加時費用，以及臨時取消的處理方式列出來，請服務方逐項說明。",
+          "related": [
+            {"stageId": "postpartum", "topicId": "postpartum-daily", "label": "安排返家後的交班"}
+          ]
+        }
+      ],
+      "guideId": null,
+      "display": "care",
+      "choices": [
+        {
+          "id": "center",
+          "label": "月子中心／產後護理之家",
+          "prompt": "比較院所名稱、設立類型、地點、房型、服務範圍、計價單位、最短入住、訂金、取消和加收費用。",
+          "comparison": [
+            "每天的照護起訖時間？",
+            "房間、餐點和照護包含哪些服務？",
+            "每晚、每天或整段入住如何計費？"
+          ]
+        },
+        {
+          "id": "home",
+          "label": "到宅照護",
+          "prompt": "向服務方確認可提供的工作、時段、交通費、加時收費與取消方式。",
+          "comparison": [
+            "可約哪些起訖時間？",
+            "可協助哪些產婦與寶寶照護？",
+            "按小時或按次計費？交通及加時怎麼算？"
+          ]
+        },
+        {
+          "id": "family",
+          "label": "家人協助",
+          "prompt": "和家人討論能協助的時段、工作、餐食與交通支出，以及臨時需要替手時的安排。",
+          "comparison": [
+            "家人能協助哪些時段？",
+            "可接手哪些照顧與家務？",
+            "餐食、用品和交通支出如何分擔？"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "postpartum-health",
+      "chapter": "health",
+      "title": "恢復、餵養與回診",
+      "questions": [
+        {
+          "key": "recovery",
+          "title": "返家後有不適時，應該聯絡誰？",
+          "notes": "出院前請照護團隊說明要留意的情況、哪些需要立即聯絡、夜間如何求助，以及回診要問什麼。"
+        },
+        {
+          "key": "feeding-support",
+          "title": "餵養遇到困難時，有哪些人可以詢問？",
+          "notes": "向照護團隊記下可聯絡的窗口、服務時間，以及求助時要準備說明的情況。"
+        }
+      ]
+    },
+    {
+      "id": "postpartum-daily",
+      "chapter": "daily",
+      "title": "家人分工",
+      "questions": [
+        {
+          "key": "help-at-home",
+          "title": "誰能到家裡幫忙，願意接手哪一件事？",
+          "notes": "先選送餐、洗衣或採買其中一件。和對方談好負責人、可幫忙的時段，以及臨時不能來時由誰接手。"
+        },
+        {
+          "key": "handoff-at-home",
+          "title": "怎麼交班，讓每個人都有休息時間？",
+          "notes": "確認誰接手下一段照顧、要交代哪些事情；約定忙不過來時先找哪位家人或朋友。把夜間照顧、餐食、用品補充及交通的分工一起記下。"
+        }
+      ],
+      "layout": "handoff"
+    }
+  ],
+  "guidePrompts": {
+    "items_90513227d0b87997": [
+      "scenario",
+      "想先釐清哪一種工作支持？",
+      "休假安排|要和誰討論休假期間、交接與回任？",
+      "收入變化|想向承辦單位確認哪些給付項目與期間？",
+      "公司福利|有哪些公司規章需要請人資說明？"
+    ]
+  }
+}

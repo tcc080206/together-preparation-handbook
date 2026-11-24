@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-708766184916e476",
+  "category": {
+    "id": "guide-items-708766184916e476",
+    "title": "改善睡眠品質",
+    "description": "查公立醫院睡眠衛教，整理日常紀錄及求助管道。",
+    "order": 209,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

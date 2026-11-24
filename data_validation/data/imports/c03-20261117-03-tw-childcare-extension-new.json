@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "batch_id": "c03-20261117-03-tw-childcare-extension-new",
+  "category": {
+    "id": "tw-childcare-extension",
+    "title": "2至未滿3歲延長托育",
+    "description": "2至未滿3歲延長托育；依官方原件分列情境，條件及未決處見各筆來源。模型整理候選，尚待使用者核對。",
+    "order": 300,
+    "review_fields": [
+      "給付公式",
+      "條件",
+      "限制"
+    ],
+    "field_types": {
+      "給付公式": "text",
+      "條件": "text",
+      "限制": "text"
+    }
+  },
+  "records": [
+    {
+      "id": "tw-childcare-extension-public-first",
+      "type": "tw-childcare-extension",
+      "title": "2至未滿3歲延長托育：公共化一般家庭第1名",
+      "fields": {
+        "給付公式": "教育部育兒津貼每月5,000元＋衛福部托育服務費用每月2,000元，共同支付第1名每月7,000元標準；實付低於標準核實。",
+        "條件": "滿2歲未滿3歲，持續送托原簽約托嬰中心／托育家園／居家保母；未送托公立、非營利或準公共幼兒園；依第21點準用申報條件。",
+        "限制": "教育部與衛福部為同一延長補助的支付構成，不能將教育部津貼再加領一次；滿2歲當月原補助資訊介接，符合持續送托資格者不用重申請。半月及核實規則仍適用。",
+        "提供者": "教育部／衛生福利部",
+        "地區": "TW",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "公式",
+        "適用起日": null,
+        "適用迄日": null,
+        "合計標準": "7000",
+        "教育部支付": "5000",
+        "衛福部支付": "2000"
+      },
+      "sources": [
+        {
+          "title": "childcare_rules_current",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba5z1YMLzxWuSERs1pXYCuzB&g=_OSL256_99ft9RbTq5wUeETjAxvVLxv9BkwzmpaQrM6QyZkPT6c&view_pdf=1",
+          "locator": "PDF p5–7 第12–16、21點；附表二"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2金額及備註；p6 Q6；p10 Q15"
+        },
+        {
+          "title": "1150701起兒童托育補助一覽表",
+          "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTY0OTUvMTE1NTcyLzFiMmRjYTE3LTBmOGYtNDE5Ny04NzAzLTEwNjZlYTBkZmM3My5wZGY%3d&n=5pys5biC5YWS56ul57aT5r%2bf6KOc5Yqp5LiA6Ka96KGoXzExNTA3MDHotbdfMTE1MDQxM%2bS%2fri5wZGY%3d&icon=..pdf",
+          "locator": "p1 第一胎2–3歲中央支付構成（不引用地方加碼）"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    },
+    {
+      "id": "tw-childcare-extension-quasi-first",
+      "type": "tw-childcare-extension",
+      "title": "2至未滿3歲延長托育：準公共一般家庭第1名",
+      "fields": {
+        "給付公式": "教育部育兒津貼每月5,000元＋衛福部托育服務費用每月8,000元，共同支付第1名每月13,000元標準；實付低於標準核實。",
+        "條件": "滿2歲未滿3歲，持續送托原簽約托嬰中心／托育家園／居家保母；未送托公立、非營利或準公共幼兒園；依第21點準用申報條件。",
+        "限制": "教育部與衛福部為同一延長補助的支付構成，不能將教育部津貼再加領一次；滿2歲當月原補助資訊介接，符合持續送托資格者不用重申請。半月及核實規則仍適用。",
+        "提供者": "教育部／衛生福利部",
+        "地區": "TW",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "公式",
+        "適用起日": null,
+        "適用迄日": null,
+        "合計標準": "13000",
+        "教育部支付": "5000",
+        "衛福部支付": "8000"
+      },
+      "sources": [
+        {
+          "title": "childcare_rules_current",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba5z1YMLzxWuSERs1pXYCuzB&g=_OSL256_99ft9RbTq5wUeETjAxvVLxv9BkwzmpaQrM6QyZkPT6c&view_pdf=1",
+          "locator": "PDF p5–7 第12–16、21點；附表二"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2金額及備註；p6 Q6；p10 Q15"
+        },
+        {
+          "title": "1150701起兒童托育補助一覽表",
+          "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTY0OTUvMTE1NTcyLzFiMmRjYTE3LTBmOGYtNDE5Ny04NzAzLTEwNjZlYTBkZmM3My5wZGY%3d&n=5pys5biC5YWS56ul57aT5r%2bf6KOc5Yqp5LiA6Ka96KGoXzExNTA3MDHotbdfMTE1MDQxM%2bS%2fri5wZGY%3d&icon=..pdf",
+          "locator": "p1 第一胎2–3歲中央支付構成（不引用地方加碼）"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    }
+  ]
+}

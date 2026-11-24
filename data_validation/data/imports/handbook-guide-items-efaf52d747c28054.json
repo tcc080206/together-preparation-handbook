@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-efaf52d747c28054",
+  "category": {
+    "id": "guide-items-efaf52d747c28054",
+    "title": "女性月經週期及排卵期",
+    "description": "查醫療機構衛教，整理週期紀錄方式及排卵估算限制。",
+    "order": 211,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

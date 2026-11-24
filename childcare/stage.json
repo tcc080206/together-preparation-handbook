@@ -1,0 +1,195 @@
+{
+  "id": "childcare",
+  "title": "育兒（0–6 歲）",
+  "summary": "比較托育支出、補助與轉銜。",
+  "intro": "按孩子的年齡與照顧方式比較支出和支持，提早安排接送、候補與轉銜。",
+  "chapters": {
+    "costs": {
+      "subtitle": "按年齡比較補助與托育支出",
+      "entries": [
+        {
+          "guideId": "items_095c7855adf6a94c",
+          "label": "育兒津貼、托育補助與就學補助"
+        },
+        {
+          "guideId": "items_6a6ae4b5954ad582",
+          "label": "托育與育兒支出"
+        },
+        {
+          "stageId": "childcare",
+          "topicId": "childcare-costs"
+        },
+        {
+          "stageId": "postpartum",
+          "topicId": "postpartum-care-options",
+          "label": "新生兒返家前後的照護選擇"
+        },
+        {
+          "guideId": "overview_kindergarten-preparation",
+          "label": "幼兒園繳費與入園準備"
+        }
+      ]
+    },
+    "health": {
+      "subtitle": "健康聯絡與兒童就診",
+      "entries": [
+        {
+          "stageId": "childcare",
+          "topicId": "childcare-health"
+        }
+      ]
+    },
+    "daily": {
+      "subtitle": "新生兒交接、候補與入園",
+      "entries": [
+        {
+          "stageId": "postpartum",
+          "topicId": "postpartum-care-options",
+          "label": "新生兒返家前後的照護選擇"
+        },
+        {
+          "guideId": "items_8073100ae7b19ae7",
+          "label": "托育面談、申請與候補"
+        },
+        {
+          "guideId": "overview_care-age-transitions",
+          "label": "各年齡的照顧與轉銜準備"
+        },
+        {
+          "guideId": "overview_kindergarten-preparation",
+          "label": "幼兒園類型、繳費與入園準備"
+        },
+        {
+          "stageId": "childcare",
+          "topicId": "childcare-daily"
+        }
+      ],
+      "situations": [
+        {
+          "title": "新生兒返家",
+          "entries": [
+            "postpartum-care-options"
+          ]
+        },
+        {
+          "title": "托育候補",
+          "entries": [
+            "items_8073100ae7b19ae7",
+            "overview_care-age-transitions"
+          ]
+        },
+        {
+          "title": "入園準備",
+          "entries": [
+            "overview_kindergarten-preparation"
+          ]
+        }
+      ]
+    }
+  },
+  "topics": [
+    {
+      "id": "childcare-costs",
+      "chapter": "costs",
+      "title": "按年齡比較補助與托育支出",
+      "questions": [
+        {
+          "key": "care-budget",
+          "title": "不同的照顧選項，每個月有哪些支出？",
+          "notes": "把固定月費、一次性費用、延托或臨時照顧分開記，向機構確認報價包含哪些項目。"
+        }
+      ]
+    },
+    {
+      "id": "childcare-health",
+      "chapter": "health",
+      "title": "健康聯絡與兒童就診",
+      "questions": [
+        {
+          "key": "care-contact",
+          "title": "照顧期間孩子不舒服，誰先接電話？",
+          "notes": "和照顧者約定聯絡順序與備援接送人，詢問對方需要哪些健康和緊急聯絡資訊。"
+        },
+        {
+          "key": "health-visit",
+          "title": "下次看診，有哪些照顧觀察想和醫師討論？",
+          "notes": "和照顧者整理想詢問的睡眠、飲食或活動情形，請醫師說明接下來可以留意什麼。也可以記下想詢問的餵養支持及後續聯絡方式。"
+        }
+      ]
+    },
+    {
+      "id": "childcare-daily",
+      "chapter": "daily",
+      "title": "新生兒交接、候補與入園",
+      "questions": [
+        {
+          "key": "care-transition",
+          "title": "從現在的照顧方式轉換時，有誰可以備援？",
+          "notes": "向下一個照顧單位問清楚候補通知、報到和接送安排；若銜接有空檔，先談好暫時由誰照顧。"
+        }
+      ]
+    }
+  ],
+  "guidePrompts": {
+    "items_95b572be1793ad97": [
+      "care",
+      "不同照顧方式，要問的事有何不同？",
+      "照顧時段|最早幾點送托、最晚幾點接回？|可以怎麼約定照顧起訖時間？|家人哪些時段能固定幫忙？",
+      "費用|月費包含哪些服務？延托如何收費？|想怎麼約定月費、餐費和請假費用？|日常採買和交通費由誰分擔？",
+      "臨時備援|遇到停托時，家裡由誰接手？|保母請假時，有什麼替代安排？|家人臨時有事時，可以聯絡誰？"
+    ],
+    "overview_care-age-transitions": [
+      "steps",
+      "成長過程中想先談哪個轉換？",
+      "開始送托|孩子開始由他人照顧時，家人和照顧者想如何交接？",
+      "改變照顧方式|更換照顧環境前，有哪些時段需要兩邊協調？",
+      "準備入園|打算向園方確認哪些招生日期和適應安排？"
+    ],
+    "overview_kindergarten-preparation": [
+      "steps",
+      "入園前想確認什麼？",
+      "選園時|想比較哪些費用、照顧時段或交通安排？",
+      "報名前|想向園方確認哪些日期、條件與文件？"
+    ],
+    "items_095c7855adf6a94c": [
+      "scenario",
+      "先釐清照顧情境",
+      "家人照顧|要向承辦單位確認哪個年齡與子女序位？",
+      "送托|想向托育單位確認哪一類合約與費用？"
+    ],
+    "items_6a6ae4b5954ad582": [
+      "talk",
+      "每月托育預算要留哪些位置？",
+      "固定費用|每月報價涵蓋哪些服務和時段？",
+      "額外開支|延長照顧或臨時請人支援時，預算怎麼安排？"
+    ],
+    "items_8073100ae7b19ae7": [
+      "steps",
+      "如何準備托育面談？",
+      "聯絡前|想先確認哪些地點與照顧時段？",
+      "參觀時|哪些環境或交接問題希望當面詢問？",
+      "參觀後|候補進度要向誰、用什麼方式確認？"
+    ],
+    "items_6decd49134f902e1": [
+      "scenario",
+      "什麼情況需要備援？",
+      "日常接送|哪個時段需要接手，誰能配合？",
+      "臨時加班|誰可以先聯絡，最晚何時要通知？",
+      "照顧者請假|如果平時協助的家人休息，還有誰能支援？"
+    ],
+    "items_a3ab10895bac009a": [
+      "scenario",
+      "想先討論哪一類用品？",
+      "家中照顧|家裡有哪些物品可以沿用？",
+      "外出接送|依你們常用的交通方式，需要確認哪些用品？"
+    ]
+  },
+  "guideRelated": {
+    "items_95b572be1793ad97": [
+      {
+        "guideId": "items_6a6ae4b5954ad582",
+        "label": "查看每月育兒與托育支出"
+      }
+    ]
+  }
+}

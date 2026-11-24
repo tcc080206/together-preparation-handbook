@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-095c7855adf6a94c",
+  "category": {
+    "id": "guide-items-095c7855adf6a94c",
+    "title": "育兒津貼與托育補助",
+    "description": "查中央與地方施行要點，按服務類型、序位、身分、期間及互斥條件拆筆。",
+    "order": 225,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

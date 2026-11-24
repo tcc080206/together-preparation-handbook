@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-98fa5bcf9a69e5c9",
+  "category": {
+    "id": "guide-items-98fa5bcf9a69e5c9",
+    "title": "居住空間是否足夠",
+    "description": "查居家安全指引，記錄照顧空間、動線、檢核項目及適用情境。",
+    "order": 221,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-d632125948e0df40",
+  "category": {
+    "id": "guide-items-d632125948e0df40",
+    "title": "家庭緊急預備金",
+    "description": "查金融教育機構的預算工具，記錄必要支出項目與估算假設。",
+    "order": 213,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

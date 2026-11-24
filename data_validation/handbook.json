@@ -1,0 +1,904 @@
+{
+  "topics": [
+    {
+      "id": "health",
+      "title": "健康檢查與用藥",
+      "description": "一般健檢、孕前健檢、用藥"
+    },
+    {
+      "id": "fertility",
+      "title": "遺傳與生育評估",
+      "description": "家族史、諮詢、生育評估"
+    },
+    {
+      "id": "wellbeing",
+      "title": "營養、生活與身心",
+      "description": "飲食、運動、睡眠與壓力"
+    },
+    {
+      "id": "conception",
+      "title": "認識受孕",
+      "description": "週期、受孕與驗孕知識"
+    },
+    {
+      "id": "finance",
+      "title": "財務、保險與補助準備",
+      "description": "預備金、保障、事前資格確認"
+    },
+    {
+      "id": "work",
+      "title": "工作與公司福利",
+      "description": "工時、公司規章與福利"
+    },
+    {
+      "id": "partnership",
+      "title": "伴侶共識與生活安排",
+      "description": "生育意願、分工、居住安排"
+    },
+    {
+      "id": "childcare-preparation",
+      "title": "育兒與托育先了解",
+      "description": "照顧方式、年齡差異、補助與候補"
+    }
+  ],
+  "reading_sections": [
+    {
+      "title": "先看花費與補助",
+      "topic_ids": [
+        "finance",
+        "childcare-preparation",
+        "work"
+      ]
+    },
+    {
+      "title": "再看健康準備",
+      "topic_ids": [
+        "health",
+        "fertility",
+        "wellbeing",
+        "conception"
+      ]
+    },
+    {
+      "title": "一起安排生活",
+      "topic_ids": [
+        "partnership"
+      ]
+    }
+  ],
+  "item_guides": [
+    {
+      "item_id": "items_d06b904d4d523a1e",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "health",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 0,
+      "content_facets": [
+        "cost",
+        "support",
+        "health"
+      ],
+      "topic_groups": {
+        "health": "先了解"
+      },
+      "title": "雙方一般健康檢查",
+      "category_ids": [
+        "guide-items-d06b904d4d523a1e"
+      ]
+    },
+    {
+      "item_id": "items_5b5ed9c0e5123e5f",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "health",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 1,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "health": "先了解"
+      },
+      "title": "雙方孕前健檢",
+      "category_ids": [
+        "nwt-precheck-amounts",
+        "tpe-precheck-amounts",
+        "guide-items-5b5ed9c0e5123e5f"
+      ]
+    },
+    {
+      "item_id": "items_b27591b82db9f794",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "health",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 2,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "health": "先了解"
+      },
+      "title": "慢性疾病與用藥評估",
+      "category_ids": [
+        "guide-items-b27591b82db9f794"
+      ]
+    },
+    {
+      "item_id": "items_5223e253480bb40a",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "health",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 3,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "health": "先了解"
+      },
+      "title": "檢查疫苗接種紀錄及補打需求",
+      "category_ids": [
+        "guide-items-5223e253480bb40a"
+      ]
+    },
+    {
+      "item_id": "items_aa84da53388da01d",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "fertility",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 4,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "fertility": "先了解"
+      },
+      "title": "雙方家族遺傳疾病史",
+      "category_ids": [
+        "guide-items-aa84da53388da01d"
+      ]
+    },
+    {
+      "item_id": "items_dc0ec93ab961fc90",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "fertility",
+      "related_topic_ids": [],
+      "reading_group": "依個人情況了解",
+      "sort_order": 5,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "fertility": "依個人情況了解"
+      },
+      "title": "遺傳諮詢",
+      "category_ids": [
+        "health-genetics-prices",
+        "guide-items-dc0ec93ab961fc90"
+      ]
+    },
+    {
+      "item_id": "items_05966383c5a41441",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "fertility",
+      "related_topic_ids": [],
+      "reading_group": "依個人情況了解",
+      "sort_order": 6,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "fertility": "依個人情況了解"
+      },
+      "title": "AMH 卵巢功能評估",
+      "category_ids": [
+        "health-amh-net-cost",
+        "health-amh-prices",
+        "guide-items-05966383c5a41441"
+      ]
+    },
+    {
+      "item_id": "items_648eb67e383e9a77",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "wellbeing",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 7,
+      "content_facets": [
+        "cost",
+        "health"
+      ],
+      "topic_groups": {
+        "wellbeing": "先了解"
+      },
+      "title": "孕前營養評估",
+      "category_ids": [
+        "guide-items-648eb67e383e9a77"
+      ]
+    },
+    {
+      "item_id": "items_63145add81cb035d",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "wellbeing",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 8,
+      "content_facets": [
+        "health"
+      ],
+      "topic_groups": {
+        "wellbeing": "先了解"
+      },
+      "title": "建立規律運動習慣",
+      "category_ids": [
+        "guide-items-63145add81cb035d"
+      ]
+    },
+    {
+      "item_id": "items_708766184916e476",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "wellbeing",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 9,
+      "content_facets": [
+        "health"
+      ],
+      "topic_groups": {
+        "wellbeing": "先了解"
+      },
+      "title": "改善睡眠品質",
+      "category_ids": [
+        "guide-items-708766184916e476"
+      ]
+    },
+    {
+      "item_id": "items_db31320bcf7b5a75",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "wellbeing",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 10,
+      "content_facets": [
+        "health"
+      ],
+      "topic_groups": {
+        "wellbeing": "先了解"
+      },
+      "title": "雙方心理健康與壓力管理",
+      "category_ids": [
+        "guide-items-db31320bcf7b5a75"
+      ]
+    },
+    {
+      "item_id": "items_efaf52d747c28054",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "conception",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 11,
+      "content_facets": [
+        "health"
+      ],
+      "topic_groups": {
+        "conception": "先了解"
+      },
+      "title": "女性月經週期及排卵期",
+      "category_ids": [
+        "guide-items-efaf52d747c28054"
+      ]
+    },
+    {
+      "item_id": "items_b8e9494ab24f080e",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "conception",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 12,
+      "content_facets": [
+        "health"
+      ],
+      "topic_groups": {
+        "conception": "先了解"
+      },
+      "title": "驗孕時間與方式",
+      "category_ids": [
+        "guide-items-b8e9494ab24f080e"
+      ]
+    },
+    {
+      "item_id": "items_d632125948e0df40",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "finance",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 13,
+      "content_facets": [
+        "cost",
+        "life"
+      ],
+      "topic_groups": {
+        "finance": "先了解"
+      },
+      "title": "家庭緊急預備金",
+      "category_ids": [
+        "guide-items-d632125948e0df40"
+      ]
+    },
+    {
+      "item_id": "items_ece45601c4d3e617",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "finance",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 14,
+      "content_facets": [
+        "cost",
+        "support"
+      ],
+      "topic_groups": {
+        "finance": "先了解"
+      },
+      "title": "現有醫療險、實支實付保障",
+      "category_ids": [
+        "guide-items-ece45601c4d3e617"
+      ]
+    },
+    {
+      "item_id": "items_670cb76ccb808008",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "finance",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 15,
+      "content_facets": [
+        "support"
+      ],
+      "topic_groups": {
+        "finance": "先了解"
+      },
+      "title": "地方生育獎勵戶籍資格",
+      "category_ids": [
+        "nwt-birth-amounts",
+        "tpe-birth-amounts",
+        "tw-birth-labor",
+        "tw-birth-labor-amounts",
+        "tw-birth-national",
+        "tw-birth-national-amounts",
+        "guide-items-670cb76ccb808008"
+      ]
+    },
+    {
+      "item_id": "items_6d185b2b845b0249",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "work",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 16,
+      "content_facets": [
+        "income",
+        "support"
+      ],
+      "topic_groups": {
+        "work": "先了解"
+      },
+      "title": "雙方公司福利確認",
+      "category_ids": [
+        "guide-items-6d185b2b845b0249"
+      ]
+    },
+    {
+      "item_id": "items_dc1fc3778c92b541",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "work",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 17,
+      "content_facets": [
+        "income",
+        "health"
+      ],
+      "topic_groups": {
+        "work": "先了解"
+      },
+      "title": "工作壓力與工時調整",
+      "category_ids": [
+        "guide-items-dc1fc3778c92b541"
+      ]
+    },
+    {
+      "item_id": "items_c25bff875b6e8a1a",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "partnership",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 18,
+      "content_facets": [
+        "life"
+      ],
+      "topic_groups": {
+        "partnership": "先了解"
+      },
+      "title": "是否雙方都準備好生育",
+      "category_ids": [
+        "guide-items-c25bff875b6e8a1a"
+      ]
+    },
+    {
+      "item_id": "items_86c2f997d1669380",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "partnership",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 19,
+      "content_facets": [
+        "life"
+      ],
+      "topic_groups": {
+        "partnership": "先了解"
+      },
+      "title": "希望生幾個孩子、間隔多久",
+      "category_ids": [
+        "guide-items-86c2f997d1669380"
+      ]
+    },
+    {
+      "item_id": "items_401613060ed26e77",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "partnership",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 20,
+      "content_facets": [
+        "life"
+      ],
+      "topic_groups": {
+        "partnership": "先了解"
+      },
+      "title": "家庭財務與支出分配",
+      "category_ids": [
+        "guide-items-401613060ed26e77"
+      ]
+    },
+    {
+      "item_id": "items_98fa5bcf9a69e5c9",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "partnership",
+      "related_topic_ids": [],
+      "reading_group": "先了解",
+      "sort_order": 21,
+      "content_facets": [
+        "life"
+      ],
+      "topic_groups": {
+        "partnership": "先了解"
+      },
+      "title": "居住空間是否足夠",
+      "category_ids": [
+        "guide-items-98fa5bcf9a69e5c9"
+      ]
+    },
+    {
+      "item_id": "items_95b572be1793ad97",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [],
+      "reading_group": "先看照顧選擇",
+      "sort_order": 22,
+      "content_facets": [
+        "cost",
+        "support",
+        "life"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "先看照顧選擇"
+      },
+      "title": "托嬰、保母、家人照顧怎麼選",
+      "category_ids": [
+        "guide-items-95b572be1793ad97"
+      ]
+    },
+    {
+      "item_id": "overview_care-age-transitions",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [],
+      "reading_group": "先看照顧選擇",
+      "sort_order": 23,
+      "content_facets": [
+        "support",
+        "life"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "先看照顧選擇"
+      },
+      "title": "不同年齡的照顧與銜接",
+      "category_ids": [
+        "guide-overview-care-age-transitions"
+      ]
+    },
+    {
+      "item_id": "overview_kindergarten-preparation",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [],
+      "reading_group": "先看照顧選擇",
+      "sort_order": 24,
+      "content_facets": [
+        "cost",
+        "support",
+        "life"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "先看照顧選擇"
+      },
+      "title": "幼兒園類型與入園準備",
+      "category_ids": [
+        "nwt-preschool-admission",
+        "preschool-fees",
+        "tpe-preschool-admission",
+        "guide-overview-kindergarten-preparation"
+      ]
+    },
+    {
+      "item_id": "items_095c7855adf6a94c",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [
+        "finance"
+      ],
+      "reading_group": "費用與支持",
+      "sort_order": 25,
+      "content_facets": [
+        "support"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "費用與支持"
+      },
+      "title": "育兒津貼與托育補助",
+      "category_ids": [
+        "allowance",
+        "childcare",
+        "nwt-childcare-amounts",
+        "tpe-childcare-amounts",
+        "tw-childcare-extension",
+        "tw-childcare-general",
+        "tw-childcare-special",
+        "guide-items-095c7855adf6a94c"
+      ]
+    },
+    {
+      "item_id": "items_6a6ae4b5954ad582",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [],
+      "reading_group": "費用與支持",
+      "sort_order": 26,
+      "content_facets": [
+        "cost"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "費用與支持"
+      },
+      "title": "每月育兒與托育支出",
+      "category_ids": [
+        "nwt-childcare-net-cost",
+        "nwt-childcare-prices",
+        "tpe-childcare-net-cost",
+        "tpe-childcare-prices",
+        "guide-items-6a6ae4b5954ad582"
+      ]
+    },
+    {
+      "item_id": "items_90513227d0b87997",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "work",
+      "related_topic_ids": [
+        "childcare-preparation"
+      ],
+      "reading_group": "費用與支持",
+      "sort_order": 27,
+      "content_facets": [
+        "income",
+        "support"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "費用與支持",
+        "work": "先了解"
+      },
+      "title": "請假、留停與公司支持",
+      "category_ids": [
+        "tw-parental-leave-benefit",
+        "tw-parental-leave-rights",
+        "guide-items-90513227d0b87997"
+      ]
+    },
+    {
+      "item_id": "items_8073100ae7b19ae7",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [],
+      "reading_group": "提前安排與分工",
+      "sort_order": 28,
+      "content_facets": [
+        "cost",
+        "life"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "提前安排與分工"
+      },
+      "title": "托育候補、參觀與面談",
+      "category_ids": [
+        "nwt-childcare-waitlist",
+        "tpe-childcare-waitlist",
+        "guide-items-8073100ae7b19ae7"
+      ]
+    },
+    {
+      "item_id": "items_6decd49134f902e1",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "partnership",
+      "related_topic_ids": [
+        "childcare-preparation"
+      ],
+      "reading_group": "提前安排與分工",
+      "sort_order": 29,
+      "content_facets": [
+        "life"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "提前安排與分工",
+        "partnership": "先了解"
+      },
+      "title": "家人照顧、接送與臨時備援",
+      "category_ids": [
+        "guide-items-6decd49134f902e1"
+      ]
+    },
+    {
+      "item_id": "items_a3ab10895bac009a",
+      "stage": "preconception",
+      "publication_status": "published",
+      "primary_topic_id": "childcare-preparation",
+      "related_topic_ids": [],
+      "reading_group": "提前安排與分工",
+      "sort_order": 30,
+      "content_facets": [
+        "cost",
+        "life"
+      ],
+      "topic_groups": {
+        "childcare-preparation": "提前安排與分工"
+      },
+      "title": "新生兒照顧與用品先了解",
+      "category_ids": [
+        "guide-items-a3ab10895bac009a"
+      ]
+    }
+  ],
+  "item_program_links": [
+    {
+      "item_id": "items_d06b904d4d523a1e",
+      "program_version_id": "program_versions_f3ca421ec33f37ed"
+    },
+    {
+      "item_id": "items_d06b904d4d523a1e",
+      "program_version_id": "program_versions_35978ef6664791e6"
+    },
+    {
+      "item_id": "items_b27591b82db9f794",
+      "program_version_id": "program_versions_4d98ff6f54cf9664"
+    },
+    {
+      "item_id": "items_b27591b82db9f794",
+      "program_version_id": "program_versions_08dc675aee0bf697"
+    },
+    {
+      "item_id": "items_aa84da53388da01d",
+      "program_version_id": "program_versions_dc22fdb376c7e11b"
+    },
+    {
+      "item_id": "items_aa84da53388da01d",
+      "program_version_id": "program_versions_a924be16cac20736"
+    },
+    {
+      "item_id": "items_aa84da53388da01d",
+      "program_version_id": "program_versions_a5acff407bdddc5a"
+    },
+    {
+      "item_id": "items_05966383c5a41441",
+      "program_version_id": "program_versions_6cb576577061828d"
+    },
+    {
+      "item_id": "items_05966383c5a41441",
+      "program_version_id": "program_versions_af8a94651cba333f"
+    },
+    {
+      "item_id": "items_dc0ec93ab961fc90",
+      "program_version_id": "program_versions_754a5841095c5239"
+    },
+    {
+      "item_id": "items_dc0ec93ab961fc90",
+      "program_version_id": "program_versions_8d637738175e4f81"
+    },
+    {
+      "item_id": "items_63145add81cb035d",
+      "program_version_id": "program_versions_ad47773bf82eaa4c"
+    },
+    {
+      "item_id": "items_708766184916e476",
+      "program_version_id": "program_versions_3ac6ee4d3b1d3021"
+    },
+    {
+      "item_id": "items_5223e253480bb40a",
+      "program_version_id": "program_versions_e06adcdd7caf7e3e"
+    },
+    {
+      "item_id": "items_db31320bcf7b5a75",
+      "program_version_id": "program_versions_bf36a5dc740632c8"
+    },
+    {
+      "item_id": "items_db31320bcf7b5a75",
+      "program_version_id": "program_versions_6f55cea2e3aacc53"
+    },
+    {
+      "item_id": "items_efaf52d747c28054",
+      "program_version_id": "program_versions_7124aa4ece18f23f"
+    },
+    {
+      "item_id": "items_6a6ae4b5954ad582",
+      "program_version_id": "program_versions_c62d50de76a2fcdc"
+    },
+    {
+      "item_id": "items_ece45601c4d3e617",
+      "program_version_id": "program_versions_dcc7f8bb8041c62e"
+    },
+    {
+      "item_id": "items_ece45601c4d3e617",
+      "program_version_id": "program_versions_76f9c3db3f577082"
+    },
+    {
+      "item_id": "items_095c7855adf6a94c",
+      "program_version_id": "program_versions_494bd0dccc3d733e"
+    },
+    {
+      "item_id": "items_dc1fc3778c92b541",
+      "program_version_id": "program_versions_95a2ca954db41fb1"
+    },
+    {
+      "item_id": "items_90513227d0b87997",
+      "program_version_id": "program_versions_7f7dd403b2d4a693"
+    },
+    {
+      "item_id": "items_90513227d0b87997",
+      "program_version_id": "program_versions_86cd9a62d20c0d8e"
+    },
+    {
+      "item_id": "items_86c2f997d1669380",
+      "program_version_id": "program_versions_e0e565968df77b0a"
+    },
+    {
+      "item_id": "items_401613060ed26e77",
+      "program_version_id": "program_versions_84482f2e08d59632"
+    },
+    {
+      "item_id": "items_6decd49134f902e1",
+      "program_version_id": "program_versions_a72a41bdc8c11f2d"
+    },
+    {
+      "item_id": "items_95b572be1793ad97",
+      "program_version_id": "program_versions_22a28f426a8de18c"
+    },
+    {
+      "item_id": "items_95b572be1793ad97",
+      "program_version_id": "program_versions_9ba8fb78a4c85eb7"
+    },
+    {
+      "item_id": "items_95b572be1793ad97",
+      "program_version_id": "program_versions_1ffcd9917aa7b986"
+    },
+    {
+      "item_id": "items_98fa5bcf9a69e5c9",
+      "program_version_id": "program_versions_6703b58d01f49274"
+    },
+    {
+      "item_id": "items_8073100ae7b19ae7",
+      "program_version_id": "program_versions_81cee9be59bfab87"
+    },
+    {
+      "item_id": "items_8073100ae7b19ae7",
+      "program_version_id": "program_versions_97e302ffb7f86329"
+    },
+    {
+      "item_id": "items_a3ab10895bac009a",
+      "program_version_id": "program_versions_f15780d6b89d1e2a"
+    },
+    {
+      "item_id": "items_a3ab10895bac009a",
+      "program_version_id": "program_versions_09ec9c8fbd578e11"
+    },
+    {
+      "item_id": "items_a3ab10895bac009a",
+      "program_version_id": "program_versions_9706142b234960d7"
+    },
+    {
+      "item_id": "items_a3ab10895bac009a",
+      "program_version_id": "program_versions_0653793e87c44f2a"
+    },
+    {
+      "item_id": "items_5b5ed9c0e5123e5f",
+      "program_version_id": "program_versions_71d9c55e318611b6"
+    },
+    {
+      "item_id": "items_5b5ed9c0e5123e5f",
+      "program_version_id": "program_versions_d82b2bc1a08eca67"
+    },
+    {
+      "item_id": "items_05966383c5a41441",
+      "program_version_id": "program_versions_65c178eb46482b99"
+    },
+    {
+      "item_id": "items_05966383c5a41441",
+      "program_version_id": "program_versions_03195668fc6bd403"
+    },
+    {
+      "item_id": "items_b27591b82db9f794",
+      "program_version_id": "program_versions_0dba5710dd855d5d"
+    },
+    {
+      "item_id": "items_670cb76ccb808008",
+      "program_version_id": "program_versions_a78d33c832f8cfb4"
+    },
+    {
+      "item_id": "items_670cb76ccb808008",
+      "program_version_id": "program_versions_a2aeedf8a0029838"
+    },
+    {
+      "item_id": "items_90513227d0b87997",
+      "program_version_id": "program_versions_c685519e45cb18ae"
+    },
+    {
+      "item_id": "items_8073100ae7b19ae7",
+      "program_version_id": "program_versions_9c6f89a366363978"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-05966383c5a41441",
+  "category": {
+    "id": "guide-items-05966383c5a41441",
+    "title": "AMH 卵巢功能評估",
+    "description": "查院所 AMH 檢驗價目與解讀限制，區別原價、自付、檢驗及掛號費。",
+    "order": 206,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-c25bff875b6e8a1a",
+  "category": {
+    "id": "guide-items-c25bff875b6e8a1a",
+    "title": "是否雙方都準備好生育",
+    "description": "查家庭教育中心指引，整理雙方意願、討論問題與可用資源。",
+    "order": 218,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-dc1fc3778c92b541",
+  "category": {
+    "id": "guide-items-dc1fc3778c92b541",
+    "title": "工作壓力與工時調整",
+    "description": "查勞動部工時及職業健康指引，區分法定權利、協商與適用條件。",
+    "order": 217,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

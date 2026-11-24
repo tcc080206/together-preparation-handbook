@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-90513227d0b87997",
+  "category": {
+    "id": "guide-items-90513227d0b87997",
+    "title": "請假、留停與公司支持",
+    "description": "查勞動部、勞保局及具名雇主規定，分開記錄留停權利、津貼公式、文件。",
+    "order": 227,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

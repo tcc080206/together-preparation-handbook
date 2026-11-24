@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-ece45601c4d3e617",
+  "category": {
+    "id": "guide-items-ece45601c4d3e617",
+    "title": "現有醫療險、實支實付保障",
+    "description": "查保險契約與主管機關說明，區分等待期、除外條款、理賠文件。",
+    "order": 214,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

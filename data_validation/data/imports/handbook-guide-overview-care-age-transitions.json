@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-overview-care-age-transitions",
+  "category": {
+    "id": "guide-overview-care-age-transitions",
+    "title": "不同年齡的照顧與銜接",
+    "description": "查各制度年齡與入園基準日，分開記錄照顧服務、補助及學年邊界。",
+    "order": 223,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

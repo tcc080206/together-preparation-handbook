@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "batch_id": "example-service-001",
+  "category": {
+    "id": "example-service",
+    "title": "範例服務資料（請替換）",
+    "description": "格式示範，並非政策資料。請替換為實際資料及可定位來源後匯入。",
+    "order": 30,
+    "review_fields": ["服務內容", "申請日期"],
+    "field_types": {"服務內容": "text", "申請日期": "date"}
+  },
+  "records": [
+    {
+      "id": "example-service-record-001",
+      "type": "example-service",
+      "title": "示範項目（請替換）",
+      "fields": {"服務內容": "請填入實際內容", "申請日期": null, "提供者": null, "地區": null},
+      "sources": [{"title": "格式範例網址（請替換）", "url": "https://example.com/", "locator": "請填入真實資料來源的章節或頁碼"}],
+      "checked_at": null,
+      "provenance": "純格式示範；尚未核對"
+    }
+  ]
+}

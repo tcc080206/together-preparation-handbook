@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-401613060ed26e77",
+  "category": {
+    "id": "guide-items-401613060ed26e77",
+    "title": "家庭財務與支出分配",
+    "description": "查官方家庭預算工具，列支出項目、分攤討論問題、計價期間。",
+    "order": 220,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

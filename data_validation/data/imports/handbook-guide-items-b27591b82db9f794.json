@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-b27591b82db9f794",
+  "category": {
+    "id": "guide-items-b27591b82db9f794",
+    "title": "慢性疾病與用藥評估",
+    "description": "查主管機關用藥安全衛教，整理就診應備資料與專業諮詢管道。",
+    "order": 202,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

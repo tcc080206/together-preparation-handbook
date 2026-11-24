@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-95b572be1793ad97",
+  "category": {
+    "id": "guide-items-95b572be1793ad97",
+    "title": "托嬰、保母、家人照顧怎麼選",
+    "description": "查社會局服務名冊與契約，分開比較托嬰、保母、家人照顧時段及責任。",
+    "order": 222,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

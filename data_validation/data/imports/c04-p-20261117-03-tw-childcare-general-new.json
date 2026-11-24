@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "batch_id": "c04-p-20261117-03-tw-childcare-general-new",
+  "category": {
+    "id": "tw-childcare-general",
+    "title": "中央托育一般家庭補助",
+    "description": "中央托育一般家庭補助；依官方原件分列情境，條件及未決處見各筆來源。模型整理候選，尚待使用者核對。",
+    "order": 400,
+    "review_fields": [
+      "金額",
+      "條件",
+      "限制"
+    ],
+    "field_types": {
+      "金額": "integer",
+      "條件": "text",
+      "限制": "text"
+    }
+  },
+  "records": [
+    {
+      "id": "tw-childcare-general-p-2",
+      "type": "tw-childcare-general",
+      "title": "公共化托育一般家庭：第2名",
+      "fields": {
+        "金額": "8000",
+        "條件": "未滿2歲我國籍幼兒，完成出生／戶籍登記；送托政府簽約合作對象，每週30小時以上。不得指定一對一，發展遲緩、身心障礙、罕見疾病及其他特殊狀況例外。一般家庭第2名子女。公設民營托嬰中心或社區公共托育家園。",
+        "限制": "實付低於標準核實支付；送托超過半月按1月、半月以下按半月；未公費安置，申報期間與同一幼兒育兒津貼擇一，重領須返還。本列排除未設戶籍個案：要點第12點／FAQ Q1與Q9表述不一致，未裁決例外。",
+        "提供者": "衛生福利部",
+        "地區": "TW",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "補助上限",
+        "適用起日": "2024-01-01",
+        "適用迄日": null
+      },
+      "sources": [
+        {
+          "title": "childcare_rules_current",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba5z1YMLzxWuSERs1pXYCuzB&g=_OSL256_99ft9RbTq5wUeETjAxvVLxv9BkwzmpaQrM6QyZkPT6c&view_pdf=1",
+          "locator": "PDF p5–7 第12–16、21點；附表二"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2金額及備註；p6 Q6；p10 Q15"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    },
+    {
+      "id": "tw-childcare-general-p-3",
+      "type": "tw-childcare-general",
+      "title": "公共化托育一般家庭：第3名以上",
+      "fields": {
+        "金額": "9000",
+        "條件": "未滿2歲我國籍幼兒，完成出生／戶籍登記；送托政府簽約合作對象，每週30小時以上。不得指定一對一，發展遲緩、身心障礙、罕見疾病及其他特殊狀況例外。一般家庭第3名以上子女。公設民營托嬰中心或社區公共托育家園。",
+        "限制": "實付低於標準核實支付；送托超過半月按1月、半月以下按半月；未公費安置，申報期間與同一幼兒育兒津貼擇一，重領須返還。本列排除未設戶籍個案：要點第12點／FAQ Q1與Q9表述不一致，未裁決例外。",
+        "提供者": "衛生福利部",
+        "地區": "TW",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "補助上限",
+        "適用起日": "2024-01-01",
+        "適用迄日": null
+      },
+      "sources": [
+        {
+          "title": "childcare_rules_current",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba5z1YMLzxWuSERs1pXYCuzB&g=_OSL256_99ft9RbTq5wUeETjAxvVLxv9BkwzmpaQrM6QyZkPT6c&view_pdf=1",
+          "locator": "PDF p5–7 第12–16、21點；附表二"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2金額及備註；p6 Q6；p10 Q15"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-6a6ae4b5954ad582",
+  "category": {
+    "id": "guide-items-6a6ae4b5954ad582",
+    "title": "每月育兒與托育支出",
+    "description": "查具名機構價目、補助及自付說明，分開記錄月費、一次性費用及時段。",
+    "order": 226,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

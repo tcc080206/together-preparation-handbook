@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-63145add81cb035d",
+  "category": {
+    "id": "guide-items-63145add81cb035d",
+    "title": "建立規律運動習慣",
+    "description": "查國健署活動指引，記錄適用情境、活動形式及需諮詢的限制。",
+    "order": 208,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

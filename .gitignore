@@ -1,0 +1,13 @@
+/.agents/skills/
+/.codex/skills/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+/data_validation/archive/
+/data_validation/work/
+/data_validation/tests/*.png

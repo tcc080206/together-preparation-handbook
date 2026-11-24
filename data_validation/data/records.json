@@ -1,0 +1,389 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "economic_allowance_1_r2",
+      "type": "allowance",
+      "title": "未滿2歲育兒津貼：第1名",
+      "fields": {
+        "金額": "5000",
+        "單位": "新臺幣／人／月",
+        "提供者": "衛生福利部",
+        "地區": "中央／全國",
+        "條件": "未滿2歲、完成我國出生或初設戶籍登記；未同時請領托育補助、未公費安置。子女序位須依規定認定。",
+        "限制": "不能與托育補助重複請領。",
+        "併領規則": "同一幼兒、同一托育補助申報期間，育兒津貼與托育補助兩者擇一，不可同時領取；重複領取應繳還。地方加碼的搭配條件另行確認。",
+        "適用起日": "2023-01-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-13",
+      "provenance": "既有資料複本；完整資格仍待核對",
+      "sources": [
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "中央托育作業要點（1140716修正後全文）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba6kPAqLY0_92QpBQ83RfatD&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p5第12點(三)、p6第13點(三)"
+        }
+      ]
+    },
+    {
+      "id": "economic_allowance_2_r2",
+      "type": "allowance",
+      "title": "未滿2歲育兒津貼：第2名",
+      "fields": {
+        "金額": "6000",
+        "單位": "新臺幣／人／月",
+        "提供者": "衛生福利部",
+        "地區": "中央／全國",
+        "條件": "未滿2歲、完成我國出生或初設戶籍登記；未同時請領托育補助、未公費安置。子女序位須依規定認定。",
+        "限制": "不能與托育補助重複請領。",
+        "併領規則": "同一幼兒、同一托育補助申報期間，育兒津貼與托育補助兩者擇一，不可同時領取；重複領取應繳還。地方加碼的搭配條件另行確認。",
+        "適用起日": "2023-01-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-13",
+      "provenance": "既有資料複本；完整資格仍待核對",
+      "sources": [
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "中央托育作業要點（1140716修正後全文）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba6kPAqLY0_92QpBQ83RfatD&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p5第12點(三)、p6第13點(三)"
+        }
+      ]
+    },
+    {
+      "id": "economic_allowance_3_r2",
+      "type": "allowance",
+      "title": "未滿2歲育兒津貼：第3名以上",
+      "fields": {
+        "金額": "7000",
+        "單位": "新臺幣／人／月",
+        "提供者": "衛生福利部",
+        "地區": "中央／全國",
+        "條件": "未滿2歲、完成我國出生或初設戶籍登記；未同時請領托育補助、未公費安置。子女序位須依規定認定。",
+        "限制": "不能與托育補助重複請領。",
+        "併領規則": "同一幼兒、同一托育補助申報期間，育兒津貼與托育補助兩者擇一，不可同時領取；重複領取應繳還。地方加碼的搭配條件另行確認。",
+        "適用起日": "2023-01-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-13",
+      "provenance": "既有資料複本；完整資格仍待核對",
+      "sources": [
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "未滿2歲幼兒照顧政策專區",
+          "url": "https://www.mohw.gov.tw/TCHMD/cp-5130-58003-1.html",
+          "locator": "育兒津貼(112年1月1日起適用)／補助金額"
+        },
+        {
+          "title": "中央托育作業要點（1140716修正後全文）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba6kPAqLY0_92QpBQ83RfatD&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p5第12點(三)、p6第13點(三)"
+        }
+      ]
+    },
+    {
+      "id": "economic_childcare_public_general_first_20261113_r2",
+      "type": "childcare",
+      "title": "公共化托育：一般家庭第1名",
+      "fields": {
+        "金額": "7000",
+        "單位": "新臺幣／人／月（上限）",
+        "提供者": "衛生福利部",
+        "地區": "中央／全國",
+        "條件": "一般家庭第1名；未滿2歲我國籍，已完成出生／戶籍登記；送托政府簽約公設民營托嬰中心或社區公共托育家園，每週30小時以上。不得指定一對一；發展遲緩、身心障礙、罕見疾病或其他特殊狀況例外。",
+        "限制": "實付低於標準時核實支付；送托超過半月按1月、半月以下按半月。未經政府公費安置，申報期間不得重領同一幼兒育兒津貼。序位／弱勢加發另查；未設戶籍有衝突。",
+        "併領規則": "同一幼兒、同一托育補助申報期間，育兒津貼與托育補助兩者擇一，不可同時領取；重複領取應繳還。地方加碼的搭配條件另行確認。",
+        "適用起日": "2024-01-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-13",
+      "provenance": "既有資料複本；完整資格仍待核對",
+      "sources": [
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2一般家庭第1名表列及註4"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p3 Q1、p4 Q2、p10 Q15"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2表題"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p3 Q1、p10 Q15"
+        },
+        {
+          "title": "中央托育作業要點（1140716修正後全文）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba6kPAqLY0_92QpBQ83RfatD&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p5第12點(三)、p6第13點(三)"
+        }
+      ]
+    },
+    {
+      "id": "economic_childcare_quasi_general_first_20261113_r2",
+      "type": "childcare",
+      "title": "準公共托育：一般家庭第1名",
+      "fields": {
+        "金額": "13000",
+        "單位": "新臺幣／人／月（上限）",
+        "提供者": "衛生福利部",
+        "地區": "中央／全國",
+        "條件": "一般家庭第1名；未滿2歲我國籍，已完成出生／戶籍登記；送托政府簽約私立托嬰中心或三親等以外居家托育人員，每週30小時以上。不得指定一對一；發展遲緩、身心障礙、罕見疾病或其他特殊狀況例外。",
+        "限制": "實付低於標準時核實支付；送托超過半月按1月、半月以下按半月。未經政府公費安置，申報期間不得重領同一幼兒育兒津貼。序位／弱勢加發另查；未設戶籍有衝突。",
+        "併領規則": "同一幼兒、同一托育補助申報期間，育兒津貼與托育補助兩者擇一，不可同時領取；重複領取應繳還。地方加碼的搭配條件另行確認。",
+        "適用起日": "2024-01-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-13",
+      "provenance": "既有資料複本；完整資格仍待核對",
+      "sources": [
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2一般家庭第1名表列及註4"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p3 Q1、p4 Q2、p10 Q15"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p4 Q2表題"
+        },
+        {
+          "title": "未滿2歲托育補助問答集（1140101起適用）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E6%9C%AA%E6%BB%BF2%E6%AD%B2%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9%E5%95%8F%E7%AD%94%E9%9B%86.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPRyYZe0pzpRlJwh9G63aTsb1QMfJZ0D8SgWgWFGOHAi2TmFEXsF9dlHfFn-k6JWtafjFPJoEK9vMiKAokcrz29SQxkBxAhcM_6gyvoUrGoCdh&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p3 Q1、p10 Q15"
+        },
+        {
+          "title": "中央托育作業要點（1140716修正後全文）",
+          "url": "https://www.sfaa.gov.tw/www_download_attach.php/%E7%9B%B4%E8%BD%84%E5%B8%82%E3%80%81%E7%B8%A3%28%E5%B8%82%29%E6%94%BF%E5%BA%9C%E8%BE%A6%E7%90%86%E6%9C%AA%E6%BB%BF%E4%BA%8C%E6%AD%B2%E5%85%92%E7%AB%A5%E6%89%98%E8%82%B2%E5%85%AC%E5%85%B1%E5%8C%96%E5%8F%8A%E6%BA%96%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E4%BD%9C%E6%A5%AD%E8%A6%81%E9%BB%9E%28%E4%BF%AE%E6%AD%A3%E5%BE%8C%E5%85%A8%E6%96%87%29.pdf?f=_OSL256_o_8t6Ku_dviccCk1YSIPR2fvqTpG0-24ahUxMepZJiv9dpKD825YRMc2avSUdmwsqMillI25oixpN5YOyDaB2SYHqRF5aGiXHJ7_hpkVba6kPAqLY0_92QpBQ83RfatD&g=_OSL256_99ft9RbTq5wUeETjAxvVLydFfhrajrlsPHSUqMsW6cQ&view_pdf=1",
+          "locator": "p5第12點(三)、p6第13點(三)"
+        }
+      ]
+    },
+    {
+      "id": "moe_2to5_1",
+      "type": "allowance",
+      "title": "2歲至學齡未滿5歲育兒津貼：第1名",
+      "fields": {
+        "金額": "5000",
+        "單位": "新臺幣／人／月",
+        "提供者": "教育部",
+        "地區": "中央／全國",
+        "條件": "生理年齡滿2歲至當學年度9月1日前學齡未滿5歲之我國籍幼兒；依規定認定子女序位。",
+        "限制": "未就讀平價教保服務機構；滿2歲當月領衛福部育兒津貼或托育補助者不得重領。2至未滿5歲不得經政府公費安置。完整資格請對照原文。",
+        "金額適用起日": "2022-08-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-14",
+      "provenance": "金額對照官方附表；完整資格待核對",
+      "sources": [
+        {
+          "title": "教育部作業要點",
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001909",
+          "locator": "第3點資格、第4點數額、第6點申請；115年8月28日修正"
+        },
+        {
+          "title": "教育部數額表（附表一）",
+          "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=215028&id=GL001909&type=LAW",
+          "locator": "第1頁，111年8月1日起：第一名5000、第二名6000、第三名以上7000"
+        }
+      ]
+    },
+    {
+      "id": "moe_2to5_2",
+      "type": "allowance",
+      "title": "2歲至學齡未滿5歲育兒津貼：第2名",
+      "fields": {
+        "金額": "6000",
+        "單位": "新臺幣／人／月",
+        "提供者": "教育部",
+        "地區": "中央／全國",
+        "條件": "生理年齡滿2歲至當學年度9月1日前學齡未滿5歲之我國籍幼兒；依規定認定子女序位。",
+        "限制": "未就讀平價教保服務機構；滿2歲當月領衛福部育兒津貼或托育補助者不得重領。2至未滿5歲不得經政府公費安置。完整資格請對照原文。",
+        "金額適用起日": "2022-08-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-14",
+      "provenance": "金額對照官方附表；完整資格待核對",
+      "sources": [
+        {
+          "title": "教育部作業要點",
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001909",
+          "locator": "第3點資格、第4點數額、第6點申請；115年8月28日修正"
+        },
+        {
+          "title": "教育部數額表（附表一）",
+          "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=215028&id=GL001909&type=LAW",
+          "locator": "第1頁，111年8月1日起：第一名5000、第二名6000、第三名以上7000"
+        }
+      ]
+    },
+    {
+      "id": "moe_2to5_3",
+      "type": "allowance",
+      "title": "2歲至學齡未滿5歲育兒津貼：第3名以上",
+      "fields": {
+        "金額": "7000",
+        "單位": "新臺幣／人／月",
+        "提供者": "教育部",
+        "地區": "中央／全國",
+        "條件": "生理年齡滿2歲至當學年度9月1日前學齡未滿5歲之我國籍幼兒；依規定認定子女序位。",
+        "限制": "未就讀平價教保服務機構；滿2歲當月領衛福部育兒津貼或托育補助者不得重領。2至未滿5歲不得經政府公費安置。完整資格請對照原文。",
+        "金額適用起日": "2022-08-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-14",
+      "provenance": "金額對照官方附表；完整資格待核對",
+      "sources": [
+        {
+          "title": "教育部作業要點",
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001909",
+          "locator": "第3點資格、第4點數額、第6點申請；115年8月28日修正"
+        },
+        {
+          "title": "教育部數額表（附表一）",
+          "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=215028&id=GL001909&type=LAW",
+          "locator": "第1頁，111年8月1日起：第一名5000、第二名6000、第三名以上7000"
+        }
+      ]
+    },
+    {
+      "id": "moe_5toSchool_1",
+      "type": "allowance",
+      "title": "學齡滿5歲至入國小前就學補助：第1名",
+      "fields": {
+        "金額": "5000",
+        "單位": "新臺幣／人／月",
+        "提供者": "教育部",
+        "地區": "中央／全國",
+        "條件": "學齡滿5歲至入國民小學前之我國籍幼兒；依規定認定子女序位。",
+        "限制": "未就讀平價教保服務機構；滿2歲當月領衛福部育兒津貼或托育補助者不得重領。2至未滿5歲不得經政府公費安置。完整資格請對照原文。",
+        "金額適用起日": "2022-08-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-14",
+      "provenance": "金額對照官方附表；完整資格待核對",
+      "sources": [
+        {
+          "title": "教育部作業要點",
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001909",
+          "locator": "第3點資格、第4點數額、第6點申請；115年8月28日修正"
+        },
+        {
+          "title": "教育部數額表（附表一）",
+          "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=215028&id=GL001909&type=LAW",
+          "locator": "第1頁，111年8月1日起：第一名5000、第二名6000、第三名以上7000"
+        }
+      ]
+    },
+    {
+      "id": "moe_5toSchool_2",
+      "type": "allowance",
+      "title": "學齡滿5歲至入國小前就學補助：第2名",
+      "fields": {
+        "金額": "6000",
+        "單位": "新臺幣／人／月",
+        "提供者": "教育部",
+        "地區": "中央／全國",
+        "條件": "學齡滿5歲至入國民小學前之我國籍幼兒；依規定認定子女序位。",
+        "限制": "未就讀平價教保服務機構；滿2歲當月領衛福部育兒津貼或托育補助者不得重領。2至未滿5歲不得經政府公費安置。完整資格請對照原文。",
+        "金額適用起日": "2022-08-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-14",
+      "provenance": "金額對照官方附表；完整資格待核對",
+      "sources": [
+        {
+          "title": "教育部作業要點",
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001909",
+          "locator": "第3點資格、第4點數額、第6點申請；115年8月28日修正"
+        },
+        {
+          "title": "教育部數額表（附表一）",
+          "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=215028&id=GL001909&type=LAW",
+          "locator": "第1頁，111年8月1日起：第一名5000、第二名6000、第三名以上7000"
+        }
+      ]
+    },
+    {
+      "id": "moe_5toSchool_3",
+      "type": "allowance",
+      "title": "學齡滿5歲至入國小前就學補助：第3名以上",
+      "fields": {
+        "金額": "7000",
+        "單位": "新臺幣／人／月",
+        "提供者": "教育部",
+        "地區": "中央／全國",
+        "條件": "學齡滿5歲至入國民小學前之我國籍幼兒；依規定認定子女序位。",
+        "限制": "未就讀平價教保服務機構；滿2歲當月領衛福部育兒津貼或托育補助者不得重領。2至未滿5歲不得經政府公費安置。完整資格請對照原文。",
+        "金額適用起日": "2022-08-01",
+        "適用迄日": null
+      },
+      "checked_at": "2026-11-14",
+      "provenance": "金額對照官方附表；完整資格待核對",
+      "sources": [
+        {
+          "title": "教育部作業要點",
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001909",
+          "locator": "第3點資格、第4點數額、第6點申請；115年8月28日修正"
+        },
+        {
+          "title": "教育部數額表（附表一）",
+          "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=215028&id=GL001909&type=LAW",
+          "locator": "第1頁，111年8月1日起：第一名5000、第二名6000、第三名以上7000"
+        }
+      ]
+    }
+  ]
+}

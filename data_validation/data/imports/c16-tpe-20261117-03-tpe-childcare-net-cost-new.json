@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "batch_id": "c16-tpe-20261117-03-tpe-childcare-net-cost-new",
+  "category": {
+    "id": "tpe-childcare-net-cost",
+    "title": "臺北市政府員工子女托嬰中心",
+    "description": "臺北市政府員工子女托嬰中心；依官方原件分列情境，條件及未決處見各筆來源。模型整理候選，尚待使用者核對。",
+    "order": 1600,
+    "review_fields": [
+      "金額",
+      "條件",
+      "限制"
+    ],
+    "field_types": {
+      "金額": "integer",
+      "條件": "text",
+      "限制": "text"
+    }
+  },
+  "records": [
+    {
+      "id": "tpe-childcare-net-cost-office",
+      "type": "tpe-childcare-net-cost",
+      "title": "臺北市政府員工子女托嬰中心：明列補助後自付待查",
+      "fields": {
+        "金額": null,
+        "條件": "同C09具名機構、服務及報價期間；一般家庭第1名，仍須另核補助資格。",
+        "限制": "尚未取得該機構同服務同期間明列補助後自付或完整官方公式；不以中央／地方補助上限相減，不將臺北大公托示意表套在機關附設員工中心。",
+        "提供者": "臺北市政府員工子女托嬰中心",
+        "地區": "TW-TPE",
+        "單位": "新臺幣元／人／月",
+        "金額性質": "明列自付",
+        "適用起日": null,
+        "適用迄日": null,
+        "原費用": "11000",
+        "原費用單位": "新臺幣元／月",
+        "補助／減免說明": "須另核中央及地方資格；沒有該機構明列自付。",
+        "自付來源類型": "未明列",
+        "費用包含": "原費用見對應記錄",
+        "費用排除": "延長托育另依時段計費；餐點費與註冊按C09明細，尚無該機構同期間明列補助後自付。",
+        "情境對應ID": "tpe-childcare-prices-office-monthly"
+      },
+      "sources": [
+        {
+          "title": "臺北11510立案托嬰中心名冊",
+          "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTc5NTAvMzE3MTEzOS81NDdjNWUyNy01NDJmLTRmOWItYjNjNC0zNTMzZDkwM2FkODYucGRm&n=5pys5biC56uL5qGI5omY5ayw5Lit5b%2bD5ZCN5YaKMTE1MTAucGRm&icon=..pdf",
+          "locator": "p8編號158"
+        },
+        {
+          "title": "社家署臺北市政府員工子女托嬰中心費用",
+          "url": "https://ncwisweb.sfaa.gov.tw/home/childcare-center/detail/CW11207013",
+          "locator": "收費情形；原費用可確認，未明列補助後自付"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。缺同機構、同服務、同期間的明列自付／公式；本次自付保留null。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-8073100ae7b19ae7",
+  "category": {
+    "id": "guide-items-8073100ae7b19ae7",
+    "title": "托育候補、參觀與面談",
+    "description": "查地方候補與招生公告，記錄申請期間、順位、聯繫方式及參觀安排。",
+    "order": 228,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

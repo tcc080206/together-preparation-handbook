@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-a3ab10895bac009a",
+  "category": {
+    "id": "guide-items-a3ab10895bac009a",
+    "title": "新生兒照顧與用品先了解",
+    "description": "查國健署或商品安全主管機關指引，記錄照顧情境、用品規格與安全限制。",
+    "order": 230,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

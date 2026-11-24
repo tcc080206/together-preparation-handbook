@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-5223e253480bb40a",
+  "category": {
+    "id": "guide-items-5223e253480bb40a",
+    "title": "檢查疫苗接種紀錄及補打需求",
+    "description": "查疾管署疫苗指引，記錄查詢接種史方式、諮詢對象及適用限制。",
+    "order": 203,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

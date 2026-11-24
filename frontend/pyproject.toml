@@ -1,0 +1,9 @@
+[project]
+name = "together-preparation"
+version = "0.1.0"
+description = "一起準備：孕前至育兒資料與本機前端"
+requires-python = ">=3.11"
+dependencies = ["jsonschema==4.26.0"]
+
+[tool.uv]
+package = false

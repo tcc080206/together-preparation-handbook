@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-6d185b2b845b0249",
+  "category": {
+    "id": "guide-items-6d185b2b845b0249",
+    "title": "雙方公司福利確認",
+    "description": "查具名雇主規章，記錄適用身分、補助或假別及 HR 確認方式。",
+    "order": 216,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

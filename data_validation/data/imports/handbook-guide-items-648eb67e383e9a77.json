@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-648eb67e383e9a77",
+  "category": {
+    "id": "guide-items-648eb67e383e9a77",
+    "title": "孕前營養評估",
+    "description": "查國健署孕前營養指引，區分適用對象、諮詢管道與限制。",
+    "order": 207,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

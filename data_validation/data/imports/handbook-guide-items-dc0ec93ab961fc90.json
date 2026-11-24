@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-dc0ec93ab961fc90",
+  "category": {
+    "id": "guide-items-dc0ec93ab961fc90",
+    "title": "遺傳諮詢",
+    "description": "查遺傳諮詢門診，記錄轉介條件、院所、諮詢費與檢測費的區別。",
+    "order": 205,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

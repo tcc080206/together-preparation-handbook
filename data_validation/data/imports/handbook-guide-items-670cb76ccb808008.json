@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-670cb76ccb808008",
+  "category": {
+    "id": "guide-items-670cb76ccb808008",
+    "title": "地方生育獎勵戶籍資格",
+    "description": "查地方政府公告及社會保險給付，分開記錄戶籍、子女序位、期限、金額。",
+    "order": 215,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

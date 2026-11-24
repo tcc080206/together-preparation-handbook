@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-aa84da53388da01d",
+  "category": {
+    "id": "guide-items-aa84da53388da01d",
+    "title": "雙方家族遺傳疾病史",
+    "description": "查醫院遺傳衛教，整理家族病史蒐集項目、親屬關係與諮詢方式。",
+    "order": 204,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

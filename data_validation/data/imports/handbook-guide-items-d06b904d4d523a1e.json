@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-d06b904d4d523a1e",
+  "category": {
+    "id": "guide-items-d06b904d4d523a1e",
+    "title": "雙方一般健康檢查",
+    "description": "查國健署成人預防保健與具名院所價目，分開記錄年齡、頻率、項目、掛號費。",
+    "order": 200,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

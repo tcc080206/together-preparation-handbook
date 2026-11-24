@@ -1,0 +1,119 @@
+{
+  "id": "pregnancy",
+  "title": "懷孕",
+  "summary": "準備產檢、費用與工作交接。",
+  "intro": "把產檢想問的事、可能的支出和工作交接整理好，和家人一起分工。",
+  "chapters": {
+    "costs": {
+      "subtitle": "產檢公費與補助",
+      "entries": [
+        {
+          "stageId": "pregnancy",
+          "topicId": "prenatal-coverage"
+        },
+        {
+          "stageId": "pregnancy",
+          "topicId": "pregnancy-costs"
+        },
+        {
+          "guideId": "items_90513227d0b87997",
+          "label": "工作支持與育嬰留停"
+        }
+      ]
+    },
+    "health": {
+      "subtitle": "準備下一次產檢",
+      "entries": [
+        {
+          "stageId": "pregnancy",
+          "topicId": "pregnancy-health"
+        }
+      ]
+    },
+    "daily": {
+      "subtitle": "交通、陪同與工作交接",
+      "entries": [
+        {
+          "stageId": "pregnancy",
+          "topicId": "pregnancy-daily"
+        }
+      ]
+    }
+  },
+  "topics": [
+    {
+      "id": "prenatal-coverage",
+      "chapter": "costs",
+      "title": "產檢公費與補助",
+      "guideId": null,
+      "display": "prenatal",
+      "questions": [
+        {
+          "key": "prenatal-extras",
+          "title": "哪些項目需要另外付費？",
+          "notes": "向院所確認公費涵蓋的檢查、另外收取的掛號費、自選檢查，以及縣市是否有另外提供的項目。"
+        }
+      ]
+    },
+    {
+      "id": "pregnancy-costs",
+      "chapter": "costs",
+      "title": "院所費用與自費檢查",
+      "questions": [
+        {
+          "key": "visit-budget",
+          "title": "這次產檢有哪些費用要先確認？",
+          "notes": "向院所索取項目明細，逐項問清楚公費與自費、收費單位，以及費用包含哪些服務。"
+        },
+        {
+          "key": "visit-leave",
+          "title": "產檢請假要先跟誰確認？",
+          "notes": "向人資詢問可用的假別、申請管道與需要的證明；和同事約定臨時需要調整時的交接方式。"
+        }
+      ],
+      "guideId": null
+    },
+    {
+      "id": "pregnancy-health",
+      "chapter": "health",
+      "title": "準備下一次產檢",
+      "questions": [
+        {
+          "key": "visit-bag",
+          "title": "產檢當天要帶什麼？",
+          "notes": "預約時問院所要帶哪些證件、健康手冊、用藥清單或其他院所的檢查結果，把院所的答覆記下來。",
+          "related": [
+            {
+              "stageId": "pregnancy",
+              "topicId": "prenatal-coverage",
+              "label": "查看產檢公費與補助"
+            }
+          ]
+        },
+        {
+          "key": "visit-questions",
+          "title": "有哪些問題想當面問醫師或助產人員？",
+          "notes": "先記下最近的不適與最想問的問題。請照護團隊說明檢查目的、如何拿到結果，以及有疑問時聯絡誰。"
+        }
+      ]
+    },
+    {
+      "id": "pregnancy-daily",
+      "chapter": "daily",
+      "title": "交通、陪同與工作交接",
+      "questions": [
+        {
+          "key": "visit-ride",
+          "title": "誰能陪診或協助往返？",
+          "notes": "一起確認誰有空、怎麼集合，並約好原本陪同的人臨時無法到場時的備援。"
+        },
+        {
+          "key": "work-handoff",
+          "title": "回診時間變動時，工作怎麼交接？",
+          "notes": "先列出需要代理的工作、聯絡方式和交接資料，和主管確認如何更新安排。"
+        }
+      ]
+    }
+  ],
+  "guidePrompts": {}
+}

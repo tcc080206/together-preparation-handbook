@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "batch_id": "c14-nwt-20261117-03-nwt-precheck-amounts-new",
+  "category": {
+    "id": "nwt-precheck-amounts",
+    "title": "新北婚後孕前健康檢查",
+    "description": "新北婚後孕前健康檢查；依官方原件分列情境，條件及未決處見各筆來源。模型整理候選，尚待使用者核對。",
+    "order": 1400,
+    "review_fields": [
+      "金額",
+      "條件",
+      "限制"
+    ],
+    "field_types": {
+      "金額": "integer",
+      "條件": "text",
+      "限制": "text"
+    }
+  },
+  "records": [
+    {
+      "id": "nwt-precheck-amounts-male",
+      "type": "nwt-precheck-amounts",
+      "title": "新北婚後孕前健康檢查：男性檢查核付費用上限（依實做）",
+      "fields": {
+        "金額": "1028",
+        "條件": "已結婚未生育第1胎、配偶任一方設籍新北之市民及配偶，每人1次，持證至合約院所；AMH限原文40歲以下女性。",
+        "限制": "補助指定檢查不含掛號與診察費；本欄AMH為院所服務經費參考表列800元，不是民眾領現金或自費售價。男性／女性為公告核付費用上限，依實際檢查項目核付，不表示所有人實做都達上限；含條件加做之項目不得再加於上限，非基本包售價。",
+        "提供者": "新北市政府衛生局",
+        "地區": "TW-NWT",
+        "單位": "新臺幣元／人／項（院所核付參考）",
+        "金額性質": "補助上限",
+        "適用起日": "2024-07-01",
+        "適用迄日": null,
+        "掛號費": null,
+        "診察費": null,
+        "AMH年齡原文": "40歲以下",
+        "地中海型貧血篩檢核付參考": "300",
+        "加做條件": "有地中海型貧血家族史可加做Hb-EP；非人人必做。"
+      },
+      "sources": [
+        {
+          "title": "新北婚後孕前公告及計畫",
+          "url": "https://www.health.ntpc.gov.tw/archive/article/581/6ZmE5Lu2LeaWsOWMl(2BW4guaUv(2BW6nOihm(2BeUn(2BWxgOWFrOWRiijnmbzmloflrZfomZ(2FvvJrmlrDljJfooZvlgaXlrZfnrKwxMTMxMTM3MDA2MeiZnylfMjQwNjE3MDUwODE0.pdf",
+          "locator": "掃描PDF p1第1、3、4項；已目視影像並人工轉錄"
+        },
+        {
+          "title": "新北婚後孕前契約書",
+          "url": "https://www.health.ntpc.gov.tw/archive/article/581/5aWR57SELeaWsOWMl_W4guWpmuW_jOWtleWJjeWBpeW6t_aqouafpeioiOeVq_acjeWLmeWlkee0hOabuC4wMjgzODYxMzA=.pdf",
+          "locator": "PDF p1實施日起；p6–7性別項目經費參考；p8同意書"
+        },
+        {
+          "title": "新北孕前健檢補助",
+          "url": "https://welfare.ntpc.gov.tw/viewService/show/1008107?actionName=list2&fromOpa=1",
+          "locator": "補助內容及申請方式"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    },
+    {
+      "id": "nwt-precheck-amounts-female",
+      "type": "nwt-precheck-amounts",
+      "title": "新北婚後孕前健康檢查：女性檢查核付費用上限（含條件加選、依實做）",
+      "fields": {
+        "金額": "2750",
+        "條件": "已結婚未生育第1胎、配偶任一方設籍新北之市民及配偶，每人1次，持證至合約院所；AMH限原文40歲以下女性。",
+        "限制": "補助指定檢查不含掛號與診察費；本欄AMH為院所服務經費參考表列800元，不是民眾領現金或自費售價。男性／女性為公告核付費用上限，依實際檢查項目核付，不表示所有人實做都達上限；含條件加做之項目不得再加於上限，非基本包售價。",
+        "提供者": "新北市政府衛生局",
+        "地區": "TW-NWT",
+        "單位": "新臺幣元／人／項（院所核付參考）",
+        "金額性質": "補助上限",
+        "適用起日": "2024-07-01",
+        "適用迄日": null,
+        "掛號費": null,
+        "診察費": null,
+        "AMH年齡原文": "40歲以下",
+        "地中海型貧血篩檢核付參考": "300",
+        "加做條件": "有地中海型貧血家族史可加做Hb-EP；非人人必做。"
+      },
+      "sources": [
+        {
+          "title": "新北婚後孕前公告及計畫",
+          "url": "https://www.health.ntpc.gov.tw/archive/article/581/6ZmE5Lu2LeaWsOWMl(2BW4guaUv(2BW6nOihm(2BeUn(2BWxgOWFrOWRiijnmbzmloflrZfomZ(2FvvJrmlrDljJfooZvlgaXlrZfnrKwxMTMxMTM3MDA2MeiZnylfMjQwNjE3MDUwODE0.pdf",
+          "locator": "掃描PDF p1第1、3、4項；已目視影像並人工轉錄"
+        },
+        {
+          "title": "新北婚後孕前契約書",
+          "url": "https://www.health.ntpc.gov.tw/archive/article/581/5aWR57SELeaWsOWMl_W4guWpmuW_jOWtleWJjeWBpeW6t_aqouafpeioiOeVq_acjeWLmeWlkee0hOabuC4wMjgzODYxMzA=.pdf",
+          "locator": "PDF p1實施日起；p6–7性別項目經費參考；p8同意書"
+        },
+        {
+          "title": "新北孕前健檢補助",
+          "url": "https://welfare.ntpc.gov.tw/viewService/show/1008107?actionName=list2&fromOpa=1",
+          "locator": "補助內容及申請方式"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    },
+    {
+      "id": "nwt-precheck-amounts-amh",
+      "type": "nwt-precheck-amounts",
+      "title": "新北婚後孕前健康檢查：40歲以下女性加做AMH",
+      "fields": {
+        "金額": "800",
+        "條件": "已結婚未生育第1胎、配偶任一方設籍新北之市民及配偶，每人1次，持證至合約院所；AMH限原文40歲以下女性。",
+        "限制": "補助指定檢查不含掛號與診察費；本欄AMH為院所服務經費參考表列800元，不是民眾領現金或自費售價。男性／女性為公告核付費用上限，依實際檢查項目核付，不表示所有人實做都達上限；含條件加做之項目不得再加於上限，非基本包售價。",
+        "提供者": "新北市政府衛生局",
+        "地區": "TW-NWT",
+        "單位": "新臺幣元／人／項（院所核付參考）",
+        "金額性質": "補助上限",
+        "適用起日": "2024-07-01",
+        "適用迄日": null,
+        "掛號費": null,
+        "診察費": null,
+        "AMH年齡原文": "40歲以下",
+        "地中海型貧血篩檢核付參考": "300",
+        "加做條件": "有地中海型貧血家族史可加做Hb-EP；非人人必做。"
+      },
+      "sources": [
+        {
+          "title": "新北婚後孕前公告及計畫",
+          "url": "https://www.health.ntpc.gov.tw/archive/article/581/6ZmE5Lu2LeaWsOWMl(2BW4guaUv(2BW6nOihm(2BeUn(2BWxgOWFrOWRiijnmbzmloflrZfomZ(2FvvJrmlrDljJfooZvlgaXlrZfnrKwxMTMxMTM3MDA2MeiZnylfMjQwNjE3MDUwODE0.pdf",
+          "locator": "掃描PDF p1第1、3、4項；已目視影像並人工轉錄"
+        },
+        {
+          "title": "新北婚後孕前契約書",
+          "url": "https://www.health.ntpc.gov.tw/archive/article/581/5aWR57SELeaWsOWMl_W4guWpmuW_jOWtleWJjeWBpeW6t_aqouafpeioiOeVq_acjeWLmeWlkee0hOabuC4wMjgzODYxMzA=.pdf",
+          "locator": "PDF p1實施日起；p6–7性別項目經費參考；p8同意書"
+        },
+        {
+          "title": "新北孕前健檢補助",
+          "url": "https://welfare.ntpc.gov.tw/viewService/show/1008107?actionName=list2&fromOpa=1",
+          "locator": "補助內容及申請方式"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    }
+  ]
+}

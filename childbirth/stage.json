@@ -1,0 +1,125 @@
+{
+  "id": "childbirth",
+  "title": "生產準備",
+  "summary": "確認住院、交通與家人分工。",
+  "intro": "先確認院所的住院流程、交通和支出，再和家人約好當天各自負責的事。",
+  "chapters": {
+    "costs": {
+      "subtitle": "住院估價",
+      "entries": [
+        {
+          "guideId": "items_670cb76ccb808008",
+          "label": "地方生育獎勵與生育給付"
+        },
+        {
+          "stageId": "childbirth",
+          "topicId": "childbirth-costs"
+        }
+      ]
+    },
+    "health": {
+      "subtitle": "住院準備清單",
+      "entries": [
+        {
+          "stageId": "childbirth",
+          "topicId": "childbirth-health"
+        }
+      ]
+    },
+    "daily": {
+      "subtitle": "交通、出院與第一個照護地點",
+      "entries": [
+        {
+          "stageId": "childbirth",
+          "topicId": "childbirth-daily"
+        }
+      ]
+    }
+  },
+  "topics": [
+    {
+      "id": "childbirth-costs",
+      "chapter": "costs",
+      "title": "住院估價",
+      "questions": [
+        {
+          "key": "hospital-bill",
+          "title": "住院估價包含哪些項目？",
+          "notes": "詢問院所病房、照護、餐點及用品如何計費，哪些項目另計，以及如何取得費用明細。"
+        }
+      ],
+      "guideId": null
+    },
+    {
+      "id": "childbirth-health",
+      "chapter": "health",
+      "title": "住院準備清單",
+      "questions": [
+        {
+          "key": "hospital-bag",
+          "title": "住院期間有哪些用品需要自備？",
+          "notes": "向院所核對文件、產婦用品與寶寶用品。",
+          "packing": [
+            [
+              "院所提供",
+              "住院期間，院所會提供哪些產婦與寶寶用品？"
+            ],
+            [
+              "需要自備",
+              "報到時要帶哪些文件？哪些產婦與寶寶用品要自備？"
+            ],
+            [
+              "可現場購買",
+              "臨時缺少用品時，現場可以買到哪些品項？"
+            ]
+          ],
+          "related": [
+            {
+              "stageId": "childbirth",
+              "topicId": "childbirth-health",
+              "question": "admission",
+              "label": "報到與聯絡"
+            }
+          ]
+        },
+        {
+          "key": "admission",
+          "title": "什麼情況要聯絡院所，從哪個入口報到？",
+          "notes": "請照護團隊說明何時打電話、白天與夜間的報到地點、陪同者規定及要帶的文件。"
+        }
+      ]
+    },
+    {
+      "id": "childbirth-daily",
+      "chapter": "daily",
+      "title": "交通、出院與第一個照護地點",
+      "questions": [
+        {
+          "key": "hospital-ride",
+          "title": "白天和夜間各由誰負責交通？",
+          "notes": "確認上車地點、院所入口及替代交通，再請一人負責通知親友、另一人接手家中原有照顧。"
+        },
+        {
+          "key": "discharge-ride",
+          "title": "出院當天誰接送、誰先回家準備？",
+          "notes": "請家人確認接送、行李與家中照顧的分工；出院時間由院所確認後再通知大家。一起確認第一個照護地點、交接的人與備用安排。",
+          "related": [
+            {
+              "stageId": "postpartum",
+              "topicId": "postpartum-care-options",
+              "label": "比較月子中心、到宅與家人照護"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "guidePrompts": {
+    "items_670cb76ccb808008": [
+      "steps",
+      "查地方獎勵前要釐清什麼？",
+      "確認縣市|想向哪個戶籍地的窗口詢問資格？",
+      "核對日期|哪些設籍日期、申辦期限與證明要向承辦人確認？"
+    ]
+  }
+}

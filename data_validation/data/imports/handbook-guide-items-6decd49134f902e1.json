@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-6decd49134f902e1",
+  "category": {
+    "id": "guide-items-6decd49134f902e1",
+    "title": "家人照顧、接送與臨時備援",
+    "description": "查照顧服務契約及家庭教育指引，整理接送授權、備援安排及聯絡事項。",
+    "order": 229,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

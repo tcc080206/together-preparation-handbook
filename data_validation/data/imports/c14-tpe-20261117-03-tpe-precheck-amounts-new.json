@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "batch_id": "c14-tpe-20261117-03-tpe-precheck-amounts-new",
+  "category": {
+    "id": "tpe-precheck-amounts",
+    "title": "臺北孕前健康檢查",
+    "description": "臺北孕前健康檢查；依官方原件分列情境，條件及未決處見各筆來源。模型整理候選，尚待使用者核對。",
+    "order": 1400,
+    "review_fields": [
+      "金額",
+      "條件",
+      "限制"
+    ],
+    "field_types": {
+      "金額": "integer",
+      "條件": "text",
+      "限制": "text"
+    }
+  },
+  "records": [
+    {
+      "id": "tpe-precheck-amounts-male",
+      "type": "tpe-precheck-amounts",
+      "title": "臺北孕前健康檢查：生理男性",
+      "fields": {
+        "金額": "875",
+        "條件": "年滿18歲，設籍臺北市或已婚者配偶設籍臺北市，尚未生育第1胎；每人終身1次，至特約院所；生理男性指定項目。",
+        "限制": "不含掛號費及診察費；AMH為加選，每案定額補助500元，差額自付，不表示檢查售價或免費。院所明列額外費用見臺大AMH原價及自付記錄，不擴大成全市固定費。",
+        "提供者": "臺北市政府衛生局",
+        "地區": "TW-TPE",
+        "單位": "新臺幣元／人／案",
+        "金額性質": "補助上限",
+        "適用起日": "2025-03-01",
+        "適用迄日": null
+      },
+      "sources": [
+        {
+          "title": "孕前健康檢查補助金額與項目",
+          "url": "https://health.gov.taipei/News_Content.aspx?n=AC64F0F68D7CF40E&s=CF0A62501EA4E084&sms=87415A8B9CE81B16",
+          "locator": "補助金額第1、2款；1150916檢視"
+        },
+        {
+          "title": "1140301孕前健康檢查新制",
+          "url": "https://health.gov.taipei/cp.aspx?n=BB1D7E05DE9C88C0&s=033FE560F76E8107",
+          "locator": "一補助對象、二方式"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    },
+    {
+      "id": "tpe-precheck-amounts-female",
+      "type": "tpe-precheck-amounts",
+      "title": "臺北孕前健康檢查：生理女性",
+      "fields": {
+        "金額": "1800",
+        "條件": "年滿18歲，設籍臺北市或已婚者配偶設籍臺北市，尚未生育第1胎；每人終身1次，至特約院所；生理女性指定項目。",
+        "限制": "不含掛號費及診察費；AMH為加選，每案定額補助500元，差額自付，不表示檢查售價或免費。院所明列額外費用見臺大AMH原價及自付記錄，不擴大成全市固定費。",
+        "提供者": "臺北市政府衛生局",
+        "地區": "TW-TPE",
+        "單位": "新臺幣元／人／案",
+        "金額性質": "補助上限",
+        "適用起日": "2025-03-01",
+        "適用迄日": null
+      },
+      "sources": [
+        {
+          "title": "孕前健康檢查補助金額與項目",
+          "url": "https://health.gov.taipei/News_Content.aspx?n=AC64F0F68D7CF40E&s=CF0A62501EA4E084&sms=87415A8B9CE81B16",
+          "locator": "補助金額第1、2款；1150916檢視"
+        },
+        {
+          "title": "1140301孕前健康檢查新制",
+          "url": "https://health.gov.taipei/cp.aspx?n=BB1D7E05DE9C88C0&s=033FE560F76E8107",
+          "locator": "一補助對象、二方式"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    },
+    {
+      "id": "tpe-precheck-amounts-amh",
+      "type": "tpe-precheck-amounts",
+      "title": "臺北孕前健康檢查：生理女性加選AMH",
+      "fields": {
+        "金額": "500",
+        "條件": "年滿18歲，設籍臺北市或已婚者配偶設籍臺北市，尚未生育第1胎；每人終身1次，至特約院所；生理女性加選AMH指定項目。",
+        "限制": "不含掛號費及診察費；AMH為加選，每案定額補助500元，差額自付，不表示檢查售價或免費。院所明列額外費用見臺大AMH原價及自付記錄，不擴大成全市固定費。",
+        "提供者": "臺北市政府衛生局",
+        "地區": "TW-TPE",
+        "單位": "新臺幣元／人／案",
+        "金額性質": "補助上限",
+        "適用起日": "2025-03-01",
+        "適用迄日": null
+      },
+      "sources": [
+        {
+          "title": "孕前健康檢查補助金額與項目",
+          "url": "https://health.gov.taipei/News_Content.aspx?n=AC64F0F68D7CF40E&s=CF0A62501EA4E084&sms=87415A8B9CE81B16",
+          "locator": "補助金額第1、2款；1150916檢視"
+        },
+        {
+          "title": "1140301孕前健康檢查新制",
+          "url": "https://health.gov.taipei/cp.aspx?n=BB1D7E05DE9C88C0&s=033FE560F76E8107",
+          "locator": "一補助對象、二方式"
+        }
+      ],
+      "checked_at": "2026-11-17",
+      "provenance": "模型依本次官方原件整理，未經使用者核對或核准；不判定個人資格，不自動加總或試算。"
+    }
+  ]
+}

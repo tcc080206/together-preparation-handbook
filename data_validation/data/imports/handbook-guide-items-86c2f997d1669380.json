@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-86c2f997d1669380",
+  "category": {
+    "id": "guide-items-86c2f997d1669380",
+    "title": "希望生幾個孩子、間隔多久",
+    "description": "查家庭教育與生育衛教資料，區分家庭偏好與需個別諮詢事項。",
+    "order": 219,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

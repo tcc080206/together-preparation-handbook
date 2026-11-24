@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-items-5b5ed9c0e5123e5f",
+  "category": {
+    "id": "guide-items-5b5ed9c0e5123e5f",
+    "title": "雙方孕前健檢",
+    "description": "查衛生局孕前健檢方案與承作院所，記錄戶籍、次數、補助項目及未涵蓋費用。",
+    "order": 201,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}

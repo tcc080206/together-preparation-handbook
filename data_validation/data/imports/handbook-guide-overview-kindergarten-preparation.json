@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "handbook-guide-overview-kindergarten-preparation",
+  "category": {
+    "id": "guide-overview-kindergarten-preparation",
+    "title": "幼兒園類型與入園準備",
+    "description": "查教育局各類園所簡章，記錄學年、招生對象、順位及費用排除項。",
+    "order": 224,
+    "review_fields": [
+      "內容",
+      "適用條件",
+      "限制"
+    ],
+    "field_types": {}
+  },
+  "records": []
+}
